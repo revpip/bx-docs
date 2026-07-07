@@ -12,7 +12,21 @@ Displays the primary Business X-Ray landing journey with headline, explanation, 
 
 ### `[business_xray_assessment]`
 
-Displays the Sprint 1 assessment placeholder. The production submission engine is scheduled for the next platform sprint.
+Displays the working free assessment form.
+
+Current behaviour:
+
+- validates a nonce
+- collects business/contact details
+- asks scored diagnostic questions
+- calculates an overall score
+- assigns a score band
+- saves or updates an organisation
+- saves an assessment record
+- creates a follow-up task
+- logs activity
+- emails the configured lead address
+- displays an immediate result to the user
 
 ### `[business_xray_pricing]`
 
