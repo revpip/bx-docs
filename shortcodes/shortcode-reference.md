@@ -2,27 +2,27 @@
 
 This document records planned and existing Business X-Ray shortcodes.
 
-## Current Production Status
+## Implemented Production Shortcodes
 
-The GitHub production repositories are being rebuilt from foundation level. Some shortcodes existed in earlier prototype ZIPs but are not yet implemented in the production `bx-platform` repo.
-
-## Planned Core Shortcodes
+These are implemented in the production `bx-platform` repository.
 
 ### `[business_xray_landing_page]`
 
-Displays the primary Business X-Ray landing journey.
+Displays the primary Business X-Ray landing journey with headline, explanation, action buttons and three proof cards.
 
 ### `[business_xray_assessment]`
 
-Displays the free assessment form.
+Displays the Sprint 1 assessment placeholder. The production submission engine is scheduled for the next platform sprint.
+
+### `[business_xray_pricing]`
+
+Displays the founding pilot / pricing structure block.
+
+## Planned Core Shortcodes
 
 ### `[business_xray_website_scan]`
 
 Displays the 60 Second X-Ray website scan form.
-
-### `[business_xray_pricing]`
-
-Displays pricing or founding pilot offer.
 
 ### `[business_xray_report_preview]`
 
