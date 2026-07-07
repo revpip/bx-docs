@@ -22,6 +22,20 @@ Stores companies and contacts going through the Business X-Ray process.
 
 Stores submitted assessments and scores.
 
+The assessment list now links to a detail view for each submitted X-Ray.
+
+The detail view shows:
+
+- business name and contact details
+- overall score
+- score band
+- linked organisation information
+- recommended next action
+- biggest frustration
+- pillar scores
+- raw answer scores
+- recent activity
+
 ### Reports
 
 Planned area for generated report previews, exports and PDFs.
@@ -29,6 +43,8 @@ Planned area for generated report previews, exports and PDFs.
 ### Tasks
 
 Planned area for action plan tasks and follow-ups.
+
+The assessment submission flow currently creates a follow-up task automatically.
 
 ### Settings
 
